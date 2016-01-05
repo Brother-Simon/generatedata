@@ -1,5 +1,5 @@
 # generatedata.com
-
+mysql数据随机生成工具
 [![Build Status](https://travis-ci.org/benkeen/generatedata.png?branch=master)](https://travis-ci.org/benkeen/generatedata)
 
 This is the repo for the downloadable version of [generatedata.com](http://www.generatedata.com). The 
